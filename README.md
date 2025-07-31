@@ -99,8 +99,8 @@ A smart Arduino-based robot that detects and follows human movement using **IR s
 
 | Preview              | File Path                  |
 |----------------------|----------------------------|
-| Circuit Diagram       | `Images/circuit_diagram.png` |
-| Robot in Action       | `Images/output_demo.jpg`     |
+| Circuit Diagram       | `Human Following Robot (1).png` |
+| Robot in Action       | `HumanFollowingRobot.ino.txt`     |
 
 Embed in `README` like:
 
